@@ -9,3 +9,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Open Source Projects
 - 💬 Ask me about anything.
 - 📫 How to reach me: monishgiri46@gmail.com
+
+
+![Monish's GitHub stats](https://github-readme-stats.vercel.app/api?username=MonishGiri&show_icons=true&theme=radical)
