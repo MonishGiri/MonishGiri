@@ -12,8 +12,6 @@ Here are some ideas to get you started:
 
 ## 📊 GitHub Stats  
 
-## 📊 GitHub Stats  
-
 <div align="center">
 
 <table>
