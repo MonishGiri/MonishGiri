@@ -12,13 +12,26 @@ Here are some ideas to get you started:
 
 ## 📊 GitHub Stats  
 
+## 📊 GitHub Stats  
+
 <div align="center">
-  
-  ![Monish's GitHub stats](https://github-readme-stats.vercel.app/api?username=MonishGiri&show_icons=true&theme=radical)
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MonishGiri&layout=compact&theme=radical)
-
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MonishGiri&theme=dark&hide_border=true)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=MonishGiri&show_icons=true&theme=radical" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MonishGiri&layout=compact&theme=radical" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=MonishGiri&theme=dark&hide_border=true" />
+    </td>
+  </tr>
+</table>
 
 </div>
+
 
